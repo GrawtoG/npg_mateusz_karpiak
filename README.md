@@ -1,0 +1,1 @@
+#Readme pojedyncza linijka zadanko 2
